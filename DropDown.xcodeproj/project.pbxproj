@@ -14,7 +14,6 @@
 		8B484A73260D5EFC008FE25C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B484A72260D5EFC008FE25C /* Assets.xcassets */; };
 		8B484A76260D5EFC008FE25C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B484A74260D5EFC008FE25C /* LaunchScreen.storyboard */; };
 		8B484A7F260D5F15008FE25C /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B484A7E260D5F15008FE25C /* CustomButton.swift */; };
-		8B484A82260D5F7A008FE25C /* DropDownTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B484A81260D5F7A008FE25C /* DropDownTableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		8B484A75260D5EFC008FE25C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B484A77260D5EFC008FE25C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B484A7E260D5F15008FE25C /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
-		8B484A81260D5F7A008FE25C /* DropDownTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownTableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +66,6 @@
 				8B484A74260D5EFC008FE25C /* LaunchScreen.storyboard */,
 				8B484A77260D5EFC008FE25C /* Info.plist */,
 				8B484A7E260D5F15008FE25C /* CustomButton.swift */,
-				8B484A81260D5F7A008FE25C /* DropDownTableView.swift */,
 			);
 			path = DropDown;
 			sourceTree = "<group>";
@@ -144,7 +141,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B484A7F260D5F15008FE25C /* CustomButton.swift in Sources */,
-				8B484A82260D5F7A008FE25C /* DropDownTableView.swift in Sources */,
 				8B484A6E260D5EFB008FE25C /* ViewController.swift in Sources */,
 				8B484A6A260D5EFB008FE25C /* AppDelegate.swift in Sources */,
 				8B484A6C260D5EFB008FE25C /* SceneDelegate.swift in Sources */,
